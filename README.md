@@ -1,6 +1,6 @@
 # Hi, I'm YH.Kim 👋
 
-**Data Analyst & AI/ML Engineer** at [DI Lab](https://di-lab.io) (Data Intelligence Laboratory)
+**Data Analyst & AI/ML Engineer** at [DI Lab](https://di-lab.io) (Data Insight Laboratory)
 
 Turning raw data into actionable insights through statistical modeling and machine learning.
 
@@ -12,10 +12,15 @@ Turning raw data into actionable insights through statistical modeling and machi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1E5397?style=flat-square&logo=sas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=tidyverse&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
 
 ### Interests
 
