@@ -27,7 +27,7 @@ M.S. in Big Data & Business. Specialized in data analysis with R, Python, and SA
 ### 주요 분야 | Focus Areas
 
 - **통계 분석 & 공간통계** | Statistical Analysis & Spatial Statistics (GWR/MGWR)
-- **머���러닝 / 딥러닝** | Machine Learning / Deep Learning
+- **머신러닝 / 딥러닝** | Machine Learning / Deep Learning
 - **NLP & 텍스트 마이닝** | Text Mining & Topic Modeling
 - **공공 데이터 분석 & 시각화** | Public Data Analysis & Visualization
 
@@ -35,7 +35,7 @@ M.S. in Big Data & Business. Specialized in data analysis with R, Python, and SA
 
 ### 주요 프로젝트 | Featured Projects
 
-| 프로���트 | 분야 | 기술 |
+| 프로젝트 | 분야 | 기술 |
 |----------|------|------|
 | [AI 학습도우미 플랫폼](https://github.com/yhkim-data/youth-learning-assistant) | 풀스택 AI EdTech | FastAPI, Next.js, Supabase |
 | [3D 프린팅 공정 최적화 AI](https://github.com/yhkim-data/mex-3d-printing-optimization) | ML / 공정최적화 | CatBoost, Optuna, SHAP |
