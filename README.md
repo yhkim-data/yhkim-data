@@ -1,8 +1,10 @@
 # Hi, I'm YH.Kim 👋
 
-**Data Analyst & AI/ML Engineer** at [DI Lab](https://di-lab.io) (Data Insight Laboratory)
+**데이터 분석가 & AI/ML 엔지니어** | [DI Lab](https://di-lab.io) 대표  
+**Data Analyst & AI/ML Engineer** | Founder of [DI Lab](https://di-lab.io) (Data Insight Laboratory)
 
-Turning raw data into actionable insights through statistical modeling and machine learning.
+빅데이터응용·경영학 석사. R, Python, SAS 기�� 데이터 분석 ���문.  
+M.S. in Big Data & Business. Specialized in data analysis with R, Python, and SAS.
 
 ---
 
@@ -22,12 +24,24 @@ Turning raw data into actionable insights through statistical modeling and machi
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
 
-### Interests
+### 주요 분야 | Focus Areas
 
-- Statistical Analysis & Survey Research
-- Machine Learning / Deep Learning
-- Public Data Analysis & Visualization
-- AI-driven Decision Support Systems
+- **통계 분석 & 공간통계** | Statistical Analysis & Spatial Statistics (GWR/MGWR)
+- **머신러��� / 딥러닝** | Machine Learning / Deep Learning
+- **NLP & 텍스트 마이닝** | Text Mining & Topic Modeling
+- **공공 데이터 분석 & 시각화** | Public Data Analysis & Visualization
+
+---
+
+### 주요 프로젝트 | Featured Projects
+
+| 프로젝��� | 분야 | 기술 |
+|----------|------|------|
+| [AI 학습도우미 플랫폼](https://github.com/yhkim-data/youth-learning-assistant) | 풀스택 AI EdTech | FastAPI, Next.js, Supabase |
+| [3D 프���팅 공정 최적화 AI](https://github.com/yhkim-data/mex-3d-printing-optimization) | ML / 공정최적화 | CatBoost, Optuna, SHAP |
+| [서울시 코로나19 확산 분석](https://github.com/yhkim-data/seoul-covid19-gwr-analysis) | 공간통계 | R, GWR/MGWR |
+| [호흡기 질환 발생 요인 분석](https://github.com/yhkim-data/respiratory-disease-regional-analysis) | ��건통계 | R, HIRA 데이터 |
+| [연구 동향 토픽모델��](https://github.com/yhkim-data/topic-modeling-analysis) | NLP / 텍스트분석 | LDA, NetworkX |
 
 ---
 
