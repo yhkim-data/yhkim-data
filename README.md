@@ -3,7 +3,7 @@
 **데이터 분석가 & AI/ML 엔지니어** | [DI Lab](https://di-lab.io) 대표  
 **Data Analyst & AI/ML Engineer** | Founder of [DI Lab](https://di-lab.io) (Data Insight Laboratory)
 
-빅데이터응용·경영학 석사. R, Python, SAS 기�� 데이터 분석 ���문.  
+빅데이터응용·경영학 석사. R, Python, SAS 기반 데이터 분석 전문.  
 M.S. in Big Data & Business. Specialized in data analysis with R, Python, and SAS.
 
 ---
@@ -27,7 +27,7 @@ M.S. in Big Data & Business. Specialized in data analysis with R, Python, and SA
 ### 주요 분야 | Focus Areas
 
 - **통계 분석 & 공간통계** | Statistical Analysis & Spatial Statistics (GWR/MGWR)
-- **머신러��� / 딥러닝** | Machine Learning / Deep Learning
+- **머���러닝 / 딥러닝** | Machine Learning / Deep Learning
 - **NLP & 텍스트 마이닝** | Text Mining & Topic Modeling
 - **공공 데이터 분석 & 시각화** | Public Data Analysis & Visualization
 
@@ -35,13 +35,13 @@ M.S. in Big Data & Business. Specialized in data analysis with R, Python, and SA
 
 ### 주요 프로젝트 | Featured Projects
 
-| 프로젝��� | 분야 | 기술 |
+| 프로���트 | 분야 | 기술 |
 |----------|------|------|
 | [AI 학습도우미 플랫폼](https://github.com/yhkim-data/youth-learning-assistant) | 풀스택 AI EdTech | FastAPI, Next.js, Supabase |
-| [3D 프���팅 공정 최적화 AI](https://github.com/yhkim-data/mex-3d-printing-optimization) | ML / 공정최적화 | CatBoost, Optuna, SHAP |
+| [3D 프린팅 공정 최적화 AI](https://github.com/yhkim-data/mex-3d-printing-optimization) | ML / 공정최적화 | CatBoost, Optuna, SHAP |
 | [서울시 코로나19 확산 분석](https://github.com/yhkim-data/seoul-covid19-gwr-analysis) | 공간통계 | R, GWR/MGWR |
-| [호흡기 질환 발생 요인 분석](https://github.com/yhkim-data/respiratory-disease-regional-analysis) | ��건통계 | R, HIRA 데이터 |
-| [연구 동향 토픽모델��](https://github.com/yhkim-data/topic-modeling-analysis) | NLP / 텍스트분석 | LDA, NetworkX |
+| [호흡기 질환 발생 요인 분석](https://github.com/yhkim-data/respiratory-disease-regional-analysis) | 보건통계 | R, HIRA 데이터 |
+| [연구 동향 토픽모델링](https://github.com/yhkim-data/topic-modeling-analysis) | NLP / 텍스트분석 | LDA, NetworkX |
 
 ---
 
